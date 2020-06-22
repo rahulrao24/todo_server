@@ -2,9 +2,9 @@
   "name": "todo-server",
   "version": "1.0.0",
   "description": "todo api server",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "json-server --watch db.json"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
