@@ -1,0 +1,26 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "todo api server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulrao24/todo_server.git"
+  },
+  "keywords": [
+    "todo",
+    "api"
+  ],
+  "author": "rahulrao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulrao24/todo_server/issues"
+  },
+  "homepage": "https://github.com/rahulrao24/todo_server#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
